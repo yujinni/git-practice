@@ -2,6 +2,11 @@ import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./pages/Login/Login";
 import Main from "./pages/Main/Main";
+import Login from "./pages/Login/Login";
+import Login from "./pages/Login/Login";
+import Login from "./pages/Login/Login";
+import Login from "./pages/Login/Login";
+import Login from "./pages/Login/Login";
 
 export default function Router() {
   return (
