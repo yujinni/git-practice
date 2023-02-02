@@ -9,6 +9,7 @@ export default function Router() {
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/main" element={<Main />} />
+        //아아아아아아
       </Routes>
     </BrowserRouter>
   );
